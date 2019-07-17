@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidRxjava</string>
+
+    <string name="btn_update">更新图书</string>
+    <string name="btn_regist_first">订阅报纸</string>
+    <string name="btn_regist_second">订阅报纸</string>
+
+    <string name="btn_mvp">Async Mvp</string>
 </resources>
